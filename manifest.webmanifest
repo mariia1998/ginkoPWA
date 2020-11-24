@@ -4,42 +4,42 @@
   "description": "apllication de transport",
   "icons": [
     {
-      "src": "/icons/icons-32.png",
+      "src": "/icons/icon-32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/icons/icons-64.png",
+      "src": "/icons/icon-64.png",
       "type": "image/png",
       "sizes": "64x64"
     },
      {
-      "src": "/icons/icons-96.png",
+      "src": "/icons/icon-96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
      {
-      "src": "/icons/icons-128.png",
+      "src": "/icons/icon-128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
      {
-      "src": "/icons/icons-168.png",
+      "src": "/icons/icon-168.png",
       "type": "image/png",
       "sizes": "168x168"
     },
      {
-      "src": "/icons/icons-192.png",
+      "src": "/icons/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
      {
-      "src": "/icons/icons-256.png",
+      "src": "/icons/icon-256.png",
       "type": "image/png",
       "sizes": "256x256"
     },
      {
-      "src": "/icons/icons-512.png",
+      "src": "/icons/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
